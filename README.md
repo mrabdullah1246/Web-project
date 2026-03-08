@@ -36,6 +36,7 @@ project-folder
 └── assets
     └── images
 #How to Run the Project
+
 Download or clone this repository.
 Install a local server such as XAMPP or WAMP.
 Place the project folder inside the htdocs directory.
@@ -46,8 +47,10 @@ Future Improvements
 Add database integration
 Improve security features
 Enhance UI/UX design
+
 Author
 Abdullah Ghazanfar
 Web Development Student
+
 License
 This project is created for educational purposes.
