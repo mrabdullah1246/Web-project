@@ -26,6 +26,7 @@ JavaScript – Client-side interactivity
 PHP – Server-side functionality
 
 #Project Structure
+
 project-folder
 │
 ├── index.html
@@ -35,6 +36,7 @@ project-folder
 ├── signup.php
 └── assets
     └── images
+    
 #How to Run the Project
 
 Download or clone this repository.
